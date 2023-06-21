@@ -1,0 +1,26 @@
+h1{
+    color:blue;
+    background-color: black;
+    border: 2px solid lightcoral;
+    border-radius: 8px;
+    font-size: 45px;
+}
+h2{
+    color: dodgerblue;
+    background-color: black; 
+    font-size: 35px;
+}
+p{
+    color: lightblue;
+    background-color: mediumblue;
+    font-size: 25px;
+}
+body{
+    background-color: black;
+}
+#container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
